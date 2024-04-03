@@ -1,4 +1,18 @@
 body {
   font-family: "Dosis", sans-serif;
   font-weight: 500;
+}
+
+#weather {
+  padding: 100px 0;
+}
+#weather .box {
+  width: 250px;
+  height: 300px;
+  background: #0000ff;
+  border-radius: 20px;
+}
+#weather .box h1, #weather .box h2 {
+  text-align: center;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
