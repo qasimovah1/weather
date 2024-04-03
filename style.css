@@ -14,5 +14,18 @@ body {
 }
 #weather .box h1, #weather .box h2 {
   text-align: center;
+  margin-bottom: 15px;
+  font-size: 20px;
   color: white;
+}
+#weather .box #btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 30px;
+  border-radius: 10px;
+  background: #8ba5ec;
+  color: white;
+  margin-top: 10px;
 }/*# sourceMappingURL=style.css.map */
